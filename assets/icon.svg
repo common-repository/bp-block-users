@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" stroke-width="1.51" fill-rule="nonzero">
+            <g id="pattern_4" transform="translate(-427.000000, -155.000000)">
+                <polygon id="Shape" stroke="#F3D3B7" fill="#F3D3B7" points="545 104 564 196 598 138"></polygon>
+                <polygon id="Shape" stroke="#E0E1EE" fill="#E0E1EE" points="495 242 511 279 580 276"></polygon>
+                <polygon id="Shape" stroke="#CECCE4" fill="#CECCE4" points="580 276 511 279 589 331"></polygon>
+                <polygon id="Shape" stroke="#DFE1EE" fill="#DFE1EE" points="495 242 580 276 592 253"></polygon>
+                <polygon id="Shape" stroke="#EAEAF2" fill="#EAEAF2" points="564 196 495 242 592 253"></polygon>
+                <polygon id="Shape" stroke="#F8D7B6" fill="#F8D7B6" points="545 104 498 132 564 196"></polygon>
+                <polygon id="Shape" stroke="#C5C1DC" fill="#C5C1DC" points="511 279 501 352 589 331"></polygon>
+                <polygon id="Shape" stroke="#F8E5D1" fill="#F8E5D1" points="498 132 490 184 564 196"></polygon>
+                <polygon id="Shape" stroke="#F5F0ED" fill="#F5F0ED" points="490 184 495 242 564 196"></polygon>
+                <polygon id="Shape" stroke="#E9EAF1" fill="#E9EAF1" points="495 242 459 255 511 279"></polygon>
+                <polygon id="Shape" stroke="#E0DCE8" fill="#E0DCE8" points="459 255 465 312 511 279"></polygon>
+                <polygon id="Shape" stroke="#D0CBE2" fill="#D0CBE2" points="465 312 501 352 511 279"></polygon>
+                <polygon id="Shape" stroke="#F5F3F3" fill="#F5F3F3" points="490 184 459 255 495 242"></polygon>
+                <polygon id="Shape" stroke="#FDE4C6" fill="#FDE4C6" points="448 169 490 184 498 132"></polygon>
+                <polygon id="Shape" stroke="#FFDAB1" fill="#FFDAB1" points="447 131 448 169 498 132"></polygon>
+                <polygon id="Shape" stroke="#FBEFE3" fill="#FBEFE3" points="448 169 459 255 490 184"></polygon>
+                <polygon id="Shape" stroke="#FFDCB2" fill="#FFDCB2" points="447 131 432 160 448 169"></polygon>
+                <polygon id="Shape" stroke="#FCEBD5" fill="#FCEBD5" points="448 169 399 170 459 255"></polygon>
+                <polygon id="Shape" stroke="#F7EADE" fill="#F7EADE" points="399 170 397 268 459 255"></polygon>
+                <polygon id="Shape" stroke="#E1D8DD" fill="#E1D8DD" points="459 255 415 287 465 312"></polygon>
+                <polygon id="Shape" stroke="#E8DDD9" fill="#E8DDD9" points="397 268 415 287 459 255"></polygon>
+                <polygon id="Shape" stroke="#FEE0B9" fill="#FEE0B9" points="432 160 399 170 448 169"></polygon>
+                <polygon id="Shape" stroke="#FFD39D" fill="#FFD39D" points="373 129 432 160 447 131"></polygon>
+                <polygon id="Shape" stroke="#FFD7A5" fill="#FFD7A5" points="373 129 399 170 432 160"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
